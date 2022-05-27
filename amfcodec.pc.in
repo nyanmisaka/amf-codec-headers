@@ -1,0 +1,7 @@
+prefix=@@PREFIX@@
+includedir=${prefix}/include
+
+Name: amfcodec
+Description: AMD Advanced Media Framework (AMF) SDK headers
+Version: 1.4.24
+Cflags: -I${includedir}
